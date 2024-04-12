@@ -10,4 +10,4 @@ COPY . .
 
 RUN chmod +x script.sh
 
-RUN chmod +x wait.sh
+
